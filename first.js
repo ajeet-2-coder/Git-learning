@@ -18,3 +18,7 @@ const footer = ()=>{
 function upi() {
     console.log("upi added");
 }
+
+function sbi(){
+    console.log("internet banking is allowed onwards";)
+}

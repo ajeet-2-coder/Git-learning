@@ -20,5 +20,9 @@ function upi() {
 }
 
 function sbi(){
-    console.log("internet banking is allowed onwards";)
+    console.log("internet banking is allowed onwards");
+}
+
+function she(){
+    console.log("Done");
 }

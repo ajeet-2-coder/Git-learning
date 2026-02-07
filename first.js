@@ -11,3 +11,7 @@ const root = ()=>{
 const pay = ()=>{
     console.log("payment is added");
 }
+
+const footer = ()=>{
+    console.log("footer is added");
+}

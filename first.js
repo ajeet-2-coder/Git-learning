@@ -15,3 +15,6 @@ const pay = ()=>{
 const footer = ()=>{
     console.log("footer is added");
 }
+function upi() {
+    console.log("upi added");
+}

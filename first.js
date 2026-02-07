@@ -26,3 +26,5 @@ function sbi(){
 function she(){
     console.log("Done");
 }
+
+console.log("bug fixed");
